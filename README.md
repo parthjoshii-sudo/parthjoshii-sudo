@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a AI Engineer.<br>Exploring automation and AI agents.<br>Python • Deep learning • Computer Vision • NLP • always learning.
+I am an AI Engineer.<br>Exploring automation and AI agents.<br>Python • Deep learning • Computer Vision • NLP • always learning.
 
 
 ## 🌐 Socials:
